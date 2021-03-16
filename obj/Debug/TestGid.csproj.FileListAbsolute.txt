@@ -1,0 +1,6 @@
+Z:\УП по программированию\№1\TestGid\TestGid\obj\Debug\TestGid.csprojResolveAssemblyReference.cache
+C:\Users\318205\Downloads\TestGid\TestGid\bin\Debug\TestGid.exe
+C:\Users\318205\Downloads\TestGid\TestGid\bin\Debug\TestGid.pdb
+C:\Users\318205\Downloads\TestGid\TestGid\obj\Debug\TestGid.csprojResolveAssemblyReference.cache
+C:\Users\318205\Downloads\TestGid\TestGid\obj\Debug\TestGid.exe
+C:\Users\318205\Downloads\TestGid\TestGid\obj\Debug\TestGid.pdb
